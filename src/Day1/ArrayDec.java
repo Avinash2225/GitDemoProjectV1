@@ -12,6 +12,8 @@ int c [] = {45,33,32,22,21,23}; // decleartion + memory allocation
 
  //how to find a length of an array
 
+int num3 [] = new int [5];
+int [] arr = new int [5];
 int  length = c.length;
 System.out.println(c);
 
