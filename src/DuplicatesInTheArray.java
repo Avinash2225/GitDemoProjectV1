@@ -22,12 +22,7 @@ public class DuplicatesInTheArray {
 		if(flag==false) {
 			System.out.println("Dublicate element is not found");
 		}
-		
-		
-		
-		
-		
-		
+	
 	}
 
 }
